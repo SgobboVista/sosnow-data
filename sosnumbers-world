@@ -1,1 +1,197 @@
-
+{
+  "Germany": [
+    "112 - Emergency",
+    "110 - Police",
+    "116117 - Medical On-Call Service",
+    "0551 19240 - Poison Control",
+    "0800 111 0 111 / 0800 111 0 222 - Telephone Counselling",
+    "116111 - Child Helpline",
+    "116116 - Card & Document Locking Service",
+    "0180 222 22 22 - Roadside Assistance (ADAC)",
+    "0180 55 952 952 - UNA Animal Rescue",
+    "030 284984-5000 - Bat Rescue Hotline"
+  ],
+  "Austria": [
+    "112 - Emergency",
+    "133 - Police",
+    "144 - Ambulance",
+    "141 - Medical On-Call Service",
+    "0800 112 112 - Telephone Counselling",
+    "147 - Child Helpline"
+  ],
+  "Belgium": [
+    "112 - Emergency",
+    "101 - Police",
+    "100 - Fire / Ambulance",
+    "116000 - Missing Children Hotline"
+  ],
+  "Bulgaria": [
+    "112 - Emergency",
+    "150 - Police",
+    "160 - Fire",
+    "166 - Ambulance",
+    "116111 - Child Helpline"
+  ],
+  "Croatia": [
+    "112 - Emergency",
+    "192 - Police",
+    "193 - Fire",
+    "194 - Ambulance"
+  ],
+  "Cyprus": [
+    "112 - Emergency",
+    "199 - Police",
+    "140 - Fire",
+    "142 - Ambulance"
+  ],
+  "Czech Republic": [
+    "112 - Emergency",
+    "155 - Ambulance",
+    "156 - Police",
+    "150 - Fire"
+  ],
+  "Denmark": [
+    "112 - Emergency",
+    "114 - Police",
+    "1813 - Medical On-Call Service"
+  ],
+  "Estonia": [
+    "112 - Emergency",
+    "110 - Police",
+    "118 - Fire"
+  ],
+  "Finland": [
+    "112 - Emergency",
+    "10022 - Police",
+    "10023 - Fire",
+    "10024 - Ambulance"
+  ],
+  "France": [
+    "112 - Emergency",
+    "17 - Police",
+    "18 - Fire",
+    "15 - Ambulance",
+    "116000 - Child Abuse Hotline"
+  ],
+  "Greece": [
+    "112 - Emergency",
+    "100 - Police",
+    "199 - Fire",
+    "166 - Ambulance"
+  ],
+  "Hungary": [
+    "112 - Emergency",
+    "107 - Police",
+    "105 - Fire",
+    "104 - Ambulance"
+  ],
+  "Iceland": [
+    "112 - Emergency",
+    "112 - Police / Fire / Ambulance"
+  ],
+  "Ireland": [
+    "112 - Emergency",
+    "999 - Emergency",
+    "116000 - Missing Children Hotline"
+  ],
+  "Italy": [
+    "112 - Emergency",
+    "113 - Police",
+    "115 - Fire",
+    "118 - Ambulance"
+  ],
+  "Latvia": [
+    "112 - Emergency",
+    "110 - Police",
+    "112 - Ambulance",
+    "112 - Fire"
+  ],
+  "Lithuania": [
+    "112 - Emergency",
+    "112 - Police",
+    "112 - Ambulance",
+    "112 - Fire"
+  ],
+  "Luxembourg": [
+    "112 - Emergency",
+    "113 - Police",
+    "112 - Fire",
+    "112 - Ambulance"
+  ],
+  "Malta": [
+    "112 - Emergency",
+    "112 - Police",
+    "112 - Fire",
+    "112 - Ambulance"
+  ],
+  "Netherlands": [
+    "112 - Emergency",
+    "0900-8844 - Police",
+    "112 - Fire",
+    "112 - Ambulance"
+  ],
+  "Poland": [
+    "112 - Emergency",
+    "997 - Police",
+    "998 - Fire",
+    "999 - Ambulance"
+  ],
+  "Portugal": [
+    "112 - Emergency",
+    "112 - Police",
+    "112 - Fire",
+    "112 - Ambulance"
+  ],
+  "Romania": [
+    "112 - Emergency",
+    "112 - Police",
+    "112 - Fire",
+    "112 - Ambulance"
+  ],
+  "Slovakia": [
+    "112 - Emergency",
+    "158 - Police",
+    "150 - Fire",
+    "155 - Ambulance"
+  ],
+  "Slovenia": [
+    "112 - Emergency",
+    "113 - Police",
+    "112 - Fire",
+    "112 - Ambulance"
+  ],
+  "Spain": [
+    "112 - Emergency",
+    "091 - Police",
+    "062 - Civil Guard",
+    "080 - Fire",
+    "061 - Ambulance"
+  ],
+  "Sweden": [
+    "112 - Emergency",
+    "114 14 - Police",
+    "112 - Fire",
+    "112 - Ambulance"
+  ],
+  "Switzerland": [
+    "112 - Emergency",
+    "117 - Police",
+    "118 - Fire",
+    "144 - Ambulance"
+  ],
+  "United Kingdom": [
+    "999 - Emergency",
+    "101 - Police",
+    "112 - Fire",
+    "999 - Ambulance",
+    "116000 - Missing Children Hotline"
+  ],
+  "United States": [
+    "911 - Emergency",
+    "988 - Suicide & Crisis Lifeline",
+    "1-800-222-1222 - Poison Control",
+    "311 - Non-Emergency Services",
+    "1-800-422-4453 - National Child Abuse Hotline",
+    "(888) 426-4435 - ASPCA Animal Poison Control"
+  ]
+}
