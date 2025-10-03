@@ -1,12 +1,17 @@
 {
-  "Nordrhein Westfalen": [
-    "112 - Notruf",
-    "110 - Polizei",
-    "116117 - Ärztlicher Bereitschaftsdienst"
-  ],
   "Rheinland-Pfalz": [
     "112 - Notruf",
     "110 - Polizei",
     "116117 - Ärztlicher Bereitschaftsdienst"
   ],
+  "Nordrhein-Westfalen": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Deutschland": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ]
 }
