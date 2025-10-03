@@ -1,193 +1,193 @@
 {
   "Germany": [
-    "112 - Emergency",
-    "110 - Police",
-    "116117 - Medical On-Call Service",
-    "0551 19240 - Poison Control",
-    "0800 111 0 111 / 0800 111 0 222 - Telephone Counselling",
-    "116111 - Child Helpline",
-    "116116 - Card & Document Locking Service",
-    "0180 222 22 22 - Roadside Assistance (ADAC)",
-    "0180 55 952 952 - UNA Animal Rescue",
-    "030 284984-5000 - Bat Rescue Hotline"
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst",
+    "0551 19240 - Giftnotruf",
+    "0800 111 0 111 / 0800 111 0 222 - Telefonseelsorge",
+    "116111 - Nummer gegen Kummer Kinder & Jugendliche",
+    "116116 - Sperrnotruf Karten & Ausweise",
+    "0180 222 22 22 - ADAC Pannenhilfe",
+    "0180 55 952 952 - UNA Tiernotrettung",
+    "030 284984-5000 - Fledermausnotruf"
   ],
   "Austria": [
-    "112 - Emergency",
-    "133 - Police",
-    "144 - Ambulance",
-    "141 - Medical On-Call Service",
-    "0800 112 112 - Telephone Counselling",
-    "147 - Child Helpline"
+    "112 - Notruf",
+    "133 - Polizei",
+    "144 - Rettung",
+    "141 - Ärztefunkdienst",
+    "0800 112 112 - Telefonseelsorge",
+    "147 - Rat auf Draht (Kinder- und Jugendtelefon)"
   ],
   "Belgium": [
-    "112 - Emergency",
-    "101 - Police",
-    "100 - Fire / Ambulance",
-    "116000 - Missing Children Hotline"
+    "112 - Notruf",
+    "101 - Polizei",
+    "100 - Feuerwehr / Rettung",
+    "116000 - Child Focus (Vermisste Kinder)"
   ],
   "Bulgaria": [
-    "112 - Emergency",
-    "150 - Police",
-    "160 - Fire",
-    "166 - Ambulance",
-    "116111 - Child Helpline"
+    "112 - Notruf",
+    "150 - Polizei",
+    "160 - Feuerwehr",
+    "166 - Rettung",
+    "116111 - Kinder- und Jugendtelefon"
   ],
   "Croatia": [
-    "112 - Emergency",
-    "192 - Police",
-    "193 - Fire",
-    "194 - Ambulance"
+    "112 - Notruf",
+    "192 - Polizei",
+    "193 - Feuerwehr",
+    "194 - Rettung"
   ],
   "Cyprus": [
-    "112 - Emergency",
-    "199 - Police",
-    "140 - Fire",
-    "142 - Ambulance"
+    "112 - Notruf",
+    "199 - Polizei",
+    "140 - Feuerwehr",
+    "142 - Rettung"
   ],
   "Czech Republic": [
-    "112 - Emergency",
-    "155 - Ambulance",
-    "156 - Police",
-    "150 - Fire"
+    "112 - Notruf",
+    "155 - Rettung",
+    "156 - Polizei",
+    "150 - Feuerwehr"
   ],
   "Denmark": [
-    "112 - Emergency",
-    "114 - Police",
-    "1813 - Medical On-Call Service"
+    "112 - Notruf",
+    "114 - Polizei",
+    "1813 - Ärztlicher Bereitschaftsdienst"
   ],
   "Estonia": [
-    "112 - Emergency",
-    "110 - Police",
-    "118 - Fire"
+    "112 - Notruf",
+    "110 - Polizei",
+    "118 - Feuerwehr"
   ],
   "Finland": [
-    "112 - Emergency",
-    "10022 - Police",
-    "10023 - Fire",
-    "10024 - Ambulance"
+    "112 - Notruf",
+    "10022 - Polizei",
+    "10023 - Feuerwehr",
+    "10024 - Rettung"
   ],
   "France": [
-    "112 - Emergency",
-    "17 - Police",
-    "18 - Fire",
-    "15 - Ambulance",
-    "116000 - Child Abuse Hotline"
+    "112 - Notruf",
+    "17 - Polizei",
+    "18 - Feuerwehr",
+    "15 - Rettung",
+    "116000 - Kindermissbrauchshotline"
   ],
   "Greece": [
-    "112 - Emergency",
-    "100 - Police",
-    "199 - Fire",
-    "166 - Ambulance"
+    "112 - Notruf",
+    "100 - Polizei",
+    "199 - Feuerwehr",
+    "166 - Rettung"
   ],
   "Hungary": [
-    "112 - Emergency",
-    "107 - Police",
-    "105 - Fire",
-    "104 - Ambulance"
+    "112 - Notruf",
+    "107 - Polizei",
+    "105 - Feuerwehr",
+    "104 - Rettung"
   ],
   "Iceland": [
-    "112 - Emergency",
-    "112 - Police / Fire / Ambulance"
+    "112 - Notruf",
+    "112 - Polizei / Feuerwehr / Rettung"
   ],
   "Ireland": [
-    "112 - Emergency",
-    "999 - Emergency",
+    "112 - Notruf",
+    "999 - Notruf",
     "116000 - Missing Children Hotline"
   ],
   "Italy": [
-    "112 - Emergency",
-    "113 - Police",
-    "115 - Fire",
-    "118 - Ambulance"
+    "112 - Notruf",
+    "113 - Polizei",
+    "115 - Feuerwehr",
+    "118 - Rettung"
   ],
   "Latvia": [
-    "112 - Emergency",
-    "110 - Police",
-    "112 - Ambulance",
-    "112 - Fire"
+    "112 - Notruf",
+    "110 - Polizei",
+    "112 - Rettung",
+    "112 - Feuerwehr"
   ],
   "Lithuania": [
-    "112 - Emergency",
-    "112 - Police",
-    "112 - Ambulance",
-    "112 - Fire"
+    "112 - Notruf",
+    "112 - Polizei",
+    "112 - Rettung",
+    "112 - Feuerwehr"
   ],
   "Luxembourg": [
-    "112 - Emergency",
-    "113 - Police",
-    "112 - Fire",
-    "112 - Ambulance"
+    "112 - Notruf",
+    "113 - Polizei",
+    "112 - Feuerwehr",
+    "112 - Rettung"
   ],
   "Malta": [
-    "112 - Emergency",
-    "112 - Police",
-    "112 - Fire",
-    "112 - Ambulance"
+    "112 - Notruf",
+    "112 - Polizei",
+    "112 - Feuerwehr",
+    "112 - Rettung"
   ],
   "Netherlands": [
-    "112 - Emergency",
-    "0900-8844 - Police",
-    "112 - Fire",
-    "112 - Ambulance"
+    "112 - Notruf",
+    "0900-8844 - Polizei",
+    "112 - Feuerwehr",
+    "112 - Rettung"
   ],
   "Poland": [
-    "112 - Emergency",
-    "997 - Police",
-    "998 - Fire",
-    "999 - Ambulance"
+    "112 - Notruf",
+    "997 - Polizei",
+    "998 - Feuerwehr",
+    "999 - Rettung"
   ],
   "Portugal": [
-    "112 - Emergency",
-    "112 - Police",
-    "112 - Fire",
-    "112 - Ambulance"
+    "112 - Notruf",
+    "112 - Polizei",
+    "112 - Feuerwehr",
+    "112 - Rettung"
   ],
   "Romania": [
-    "112 - Emergency",
-    "112 - Police",
-    "112 - Fire",
-    "112 - Ambulance"
+    "112 - Notruf",
+    "112 - Polizei",
+    "112 - Feuerwehr",
+    "112 - Rettung"
   ],
   "Slovakia": [
-    "112 - Emergency",
-    "158 - Police",
-    "150 - Fire",
-    "155 - Ambulance"
+    "112 - Notruf",
+    "158 - Polizei",
+    "150 - Feuerwehr",
+    "155 - Rettung"
   ],
   "Slovenia": [
-    "112 - Emergency",
-    "113 - Police",
-    "112 - Fire",
-    "112 - Ambulance"
+    "112 - Notruf",
+    "113 - Polizei",
+    "112 - Feuerwehr",
+    "112 - Rettung"
   ],
   "Spain": [
-    "112 - Emergency",
-    "091 - Police",
-    "062 - Civil Guard",
-    "080 - Fire",
-    "061 - Ambulance"
+    "112 - Notruf",
+    "091 - Polizei",
+    "062 - Guardia Civil",
+    "080 - Feuerwehr",
+    "061 - Rettung"
   ],
   "Sweden": [
-    "112 - Emergency",
-    "114 14 - Police",
-    "112 - Fire",
-    "112 - Ambulance"
+    "112 - Notruf",
+    "114 14 - Polizei",
+    "112 - Feuerwehr",
+    "112 - Rettung"
   ],
   "Switzerland": [
-    "112 - Emergency",
-    "117 - Police",
-    "118 - Fire",
-    "144 - Ambulance"
+    "112 - Notruf",
+    "117 - Polizei",
+    "118 - Feuerwehr",
+    "144 - Rettung"
   ],
   "United Kingdom": [
-    "999 - Emergency",
-    "101 - Police",
-    "112 - Fire",
-    "999 - Ambulance",
-    "116000 - Missing Children Hotline"
+    "999 - Notruf",
+    "101 - Polizei",
+    "112 - Feuerwehr",
+    "999 - Rettung",
+    "116000 - Missing Kids"
   ],
   "United States": [
-    "911 - Emergency",
+    "911 - Notruf",
     "988 - Suicide & Crisis Lifeline",
     "1-800-222-1222 - Poison Control",
     "311 - Non-Emergency Services",
