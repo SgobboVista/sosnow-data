@@ -1,10 +1,80 @@
 {
-  "Rheinland-Pfalz": [
+  "Baden-Württemberg": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Bayern": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Berlin": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Brandenburg": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Bremen": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Hamburg": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Hessen": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Mecklenburg-Vorpommern": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Niedersachsen": [
     "112 - Notruf",
     "110 - Polizei",
     "116117 - Ärztlicher Bereitschaftsdienst"
   ],
   "Nordrhein-Westfalen": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Rheinland-Pfalz": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Saarland": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Sachsen": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Sachsen-Anhalt": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Schleswig-Holstein": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Thüringen": [
     "112 - Notruf",
     "110 - Polizei",
     "116117 - Ärztlicher Bereitschaftsdienst"
