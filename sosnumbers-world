@@ -1,5 +1,5 @@
 {
-  "Germany": [
+  "Deutschland": [
     "112 - Notruf",
     "110 - Polizei",
     "116117 - Ärztlicher Bereitschaftsdienst",
@@ -11,7 +11,7 @@
     "0180 55 952 952 - UNA Tiernotrettung",
     "030 284984-5000 - Fledermausnotruf"
   ],
-  "Austria": [
+  "Österreich": [
     "112 - Notruf",
     "133 - Polizei",
     "144 - Rettung",
@@ -19,100 +19,100 @@
     "0800 112 112 - Telefonseelsorge",
     "147 - Rat auf Draht (Kinder- und Jugendtelefon)"
   ],
-  "Belgium": [
+  "Belgien": [
     "112 - Notruf",
     "101 - Polizei",
     "100 - Feuerwehr / Rettung",
     "116000 - Child Focus (Vermisste Kinder)"
   ],
-  "Bulgaria": [
+  "Bulgarien": [
     "112 - Notruf",
     "150 - Polizei",
     "160 - Feuerwehr",
     "166 - Rettung",
     "116111 - Kinder- und Jugendtelefon"
   ],
-  "Croatia": [
+  "Kroatien": [
     "112 - Notruf",
     "192 - Polizei",
     "193 - Feuerwehr",
     "194 - Rettung"
   ],
-  "Cyprus": [
+  "Zypern": [
     "112 - Notruf",
     "199 - Polizei",
     "140 - Feuerwehr",
     "142 - Rettung"
   ],
-  "Czech Republic": [
+  "Tschechien": [
     "112 - Notruf",
     "155 - Rettung",
     "156 - Polizei",
     "150 - Feuerwehr"
   ],
-  "Denmark": [
+  "Dänemark": [
     "112 - Notruf",
     "114 - Polizei",
     "1813 - Ärztlicher Bereitschaftsdienst"
   ],
-  "Estonia": [
+  "Estland": [
     "112 - Notruf",
     "110 - Polizei",
     "118 - Feuerwehr"
   ],
-  "Finland": [
+  "Finnland": [
     "112 - Notruf",
     "10022 - Polizei",
     "10023 - Feuerwehr",
     "10024 - Rettung"
   ],
-  "France": [
+  "Frankreich": [
     "112 - Notruf",
     "17 - Polizei",
     "18 - Feuerwehr",
     "15 - Rettung",
     "116000 - Kindermissbrauchshotline"
   ],
-  "Greece": [
+  "Griechenland": [
     "112 - Notruf",
     "100 - Polizei",
     "199 - Feuerwehr",
     "166 - Rettung"
   ],
-  "Hungary": [
+  "Ungarn": [
     "112 - Notruf",
     "107 - Polizei",
     "105 - Feuerwehr",
     "104 - Rettung"
   ],
-  "Iceland": [
+  "Island": [
     "112 - Notruf",
     "112 - Polizei / Feuerwehr / Rettung"
   ],
-  "Ireland": [
+  "Irland": [
     "112 - Notruf",
     "999 - Notruf",
     "116000 - Missing Children Hotline"
   ],
-  "Italy": [
+  "Italien": [
     "112 - Notruf",
     "113 - Polizei",
     "115 - Feuerwehr",
     "118 - Rettung"
   ],
-  "Latvia": [
+  "Lettland": [
     "112 - Notruf",
     "110 - Polizei",
     "112 - Rettung",
     "112 - Feuerwehr"
   ],
-  "Lithuania": [
+  "Litauen": [
     "112 - Notruf",
     "112 - Polizei",
     "112 - Rettung",
     "112 - Feuerwehr"
   ],
-  "Luxembourg": [
+  "Luxemburg": [
     "112 - Notruf",
     "113 - Polizei",
     "112 - Feuerwehr",
@@ -124,13 +124,13 @@
     "112 - Feuerwehr",
     "112 - Rettung"
   ],
-  "Netherlands": [
+  "Niederlande": [
     "112 - Notruf",
     "0900-8844 - Polizei",
     "112 - Feuerwehr",
     "112 - Rettung"
   ],
-  "Poland": [
+  "Polen": [
     "112 - Notruf",
     "997 - Polizei",
     "998 - Feuerwehr",
@@ -142,51 +142,51 @@
     "112 - Feuerwehr",
     "112 - Rettung"
   ],
-  "Romania": [
+  "Rumänien": [
     "112 - Notruf",
     "112 - Polizei",
     "112 - Feuerwehr",
     "112 - Rettung"
   ],
-  "Slovakia": [
+  "Slowakei": [
     "112 - Notruf",
     "158 - Polizei",
     "150 - Feuerwehr",
     "155 - Rettung"
   ],
-  "Slovenia": [
+  "Slowenien": [
     "112 - Notruf",
     "113 - Polizei",
     "112 - Feuerwehr",
     "112 - Rettung"
   ],
-  "Spain": [
+  "Spanien": [
     "112 - Notruf",
     "091 - Polizei",
     "062 - Guardia Civil",
     "080 - Feuerwehr",
     "061 - Rettung"
   ],
-  "Sweden": [
+  "Schweden": [
     "112 - Notruf",
     "114 14 - Polizei",
     "112 - Feuerwehr",
     "112 - Rettung"
   ],
-  "Switzerland": [
+  "Schweiz": [
     "112 - Notruf",
     "117 - Polizei",
     "118 - Feuerwehr",
     "144 - Rettung"
   ],
-  "United Kingdom": [
+  "Vereinigtes Königreich": [
     "999 - Notruf",
     "101 - Polizei",
     "112 - Feuerwehr",
     "999 - Rettung",
     "116000 - Missing Kids"
   ],
-  "United States": [
+  "Vereinigte Staaten": [
     "911 - Notruf",
     "988 - Suicide & Crisis Lifeline",
     "1-800-222-1222 - Poison Control",
