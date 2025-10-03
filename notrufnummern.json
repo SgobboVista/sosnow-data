@@ -1,0 +1,17 @@
+{
+  "Bayern": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "116117 - Ärztlicher Bereitschaftsdienst"
+  ],
+  "Berlin": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "030 19240 - Giftnotruf Berlin"
+  ],
+  "Hamburg": [
+    "112 - Notruf",
+    "110 - Polizei",
+    "040 19240 - Giftnotruf Hamburg"
+  ]
+}
